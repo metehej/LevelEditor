@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazedCaver", "CrazedCaver.csproj", "{EAFC2EA3-A31C-4DF0-909E-92C7E964E3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\Core\Core.csproj", "{B7007D4A-4983-420D-A189-CE57D942C2F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFC2EA3-A31C-4DF0-909E-92C7E964E3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFC2EA3-A31C-4DF0-909E-92C7E964E3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFC2EA3-A31C-4DF0-909E-92C7E964E3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFC2EA3-A31C-4DF0-909E-92C7E964E3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7007D4A-4983-420D-A189-CE57D942C2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7007D4A-4983-420D-A189-CE57D942C2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7007D4A-4983-420D-A189-CE57D942C2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7007D4A-4983-420D-A189-CE57D942C2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A50343CC-6D00-483B-B4D1-13AC2C108AB6}
+	EndGlobalSection
+EndGlobal

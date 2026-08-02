@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Sprite name="key" animated="true">
+    <Animation length="0.75" loop="true"/>
+    <Frames>
+        <Frame index="0" name="key0.png"/>
+        <Frame index="1" name="key1.png"/>
+        <Frame index="2" name="key2.png"/>
+        <Frame index="3" name="key3.png"/>
+    </Frames>
+</Sprite>

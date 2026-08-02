@@ -1,0 +1,33 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin levels.xml
+/copy:levels.xml
+
+#begin PixelFont/PublicPixel.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:PixelFont/PublicPixel.spritefont
+
+#begin textureRegions.xml
+/copy:textureRegions.xml
+
+#begin textures.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/build:textures.png
+

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<Entity name="Brick wall" type="Wall" width="1" height="1">
+    <Sprite fileName="wall.xml" tag="spriteName" humanName="Key"/>
+</Entity>

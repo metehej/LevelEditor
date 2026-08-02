@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Sprite name="wall" animated="false">
+    <Frames>
+        <Frame index="0" name="wall.png"/>
+    </Frames>
+</Sprite>

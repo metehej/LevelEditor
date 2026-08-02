@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Texture name="textures">
+	<TextureRegion name="belt" x="0" y="0" w="32" h="32"/>
+	<TextureRegion name="wall" x="32" y="0" w="32" h="32"/>
+	<TextureRegion name="platform_e" x="64" y="0" w="32" h="32"/>
+	<TextureRegion name="platform_m" x="96" y="0" w="32" h="32"/>
+	<TextureRegion name="phone" x="128" y="0" w="32" h="32"/>
+	<TextureRegion name="flower" x="160" y="0" w="32" h="32"/>
+	<TextureRegion name="key0" x="192" y="0" w="32" h="32"/>
+	<TextureRegion name="key1" x="224" y="0" w="32" h="32"/>
+	<TextureRegion name="key2" x="256" y="0" w="32" h="32"/>
+	<TextureRegion name="key3" x="288" y="0" w="32" h="32"/>
+	<TextureRegion name="key4" x="320" y="0" w="32" h="32"/>
+	<TextureRegion name="door_l" x="0" y="32" w="64" h="64"/>
+	<TextureRegion name="door_u" x="64" y="32" w="64" h="64"/>
+	<TextureRegion name="slime" x="128" y="32" w="32" h="64"/>
+	<TextureRegion name="character" x="160" y="32" w="32" h="64"/>
+	<TextureRegion name="slime_big" x="0" y="96" w="64" h="64"/>
+</Texture>
