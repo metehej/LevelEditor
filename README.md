@@ -97,5 +97,7 @@ chmod +x ./buildLevelEditor
 
 ## Dokumentace
 
-* [Uživatelská dokumentace](docs/user.md)
-* [Programátorská dokumentace](docs/programmer.md)
+###### CrazedCaver
+
+* [Uživatelská dokumentace](docs/CrazedCaver/user.md)
+* [Programátorská dokumentace](docs/CrazedCaver/programmer.md)
